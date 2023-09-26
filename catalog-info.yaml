@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: terraform-ecommerce
+  annotations:
+    github.com/project-slug: Vinibg/terraform-ecommerce
+spec:
+  type: other
+  lifecycle: unknown
+  owner: backstage
